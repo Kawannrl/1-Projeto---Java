@@ -8,4 +8,4 @@ Primeiro aula de git da turma Claudinas
  git commit -m "nome da ação" => rastreio da ação de desenvolvimento
  git push => empurra pra nuvem as alterações , alinha o projeto local e remoto  
 
-# Primeira aula de lógica javascript
+# Primeira aula de lógica Javascript
