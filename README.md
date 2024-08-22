@@ -7,3 +7,5 @@ Primeiro aula de git da turma Claudinas
  git add . => adicionar todos os arquivos no repositorio
  git commit -m "nome da ação" => rastreio da ação de desenvolvimento
  git push => empurra pra nuvem as alterações , alinha o projeto local e remoto  
+
+# Primeira aula de lógica javascript
