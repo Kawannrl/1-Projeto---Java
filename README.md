@@ -1,4 +1,4 @@
-# 1-Projeto---Java
+# 1-Projeto---Js
 Primeiro aula de git da turma Claudinas
 
 # Primeira aula de git
